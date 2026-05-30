@@ -1,0 +1,1 @@
+Hoje vou chegar em casa e praticar com git
